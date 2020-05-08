@@ -1,5 +1,10 @@
 # rpibeadsort
-try simplest setup for beadsorting
+try simplest setup for beadsorting. the prototype is build out of carcdboard one raspberry pi with a camera and four servos.
+there are following modules now: 
+one servo free rotating for queueing the beads into a straw. 
+one servo for blocking the queue infront of the window 
+one servo blocking the bead from leaving the window and releasing it into the selector straw and 
+one servo to select a bucket. 
 
 
 # dependancies
